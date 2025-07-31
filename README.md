@@ -70,7 +70,5 @@
 
 ---
 
-### 🐍 Snake Activity
-
-![Snake animation](https://github.com/BennetBechtel/BennetBechtel/blob/main/output/snake.svg)
+![Snake animation (dark)](https://raw.githubusercontent.com/BennetBechtel/BennetBechtel/output/github-contribution-grid-snake-dark.svg)
 
